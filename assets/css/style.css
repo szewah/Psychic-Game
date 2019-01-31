@@ -1,0 +1,18 @@
+.container {
+    font-family: helvetica;
+    text-align: center;
+    width: 100%;
+    margin: 60px auto;
+}
+
+h1, h3 {
+    margin-top: 10px;
+}
+
+#wins, #losses, #chances, #user-guess {
+    text-align: left;
+    width: 40%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px dotted grey;
+}
